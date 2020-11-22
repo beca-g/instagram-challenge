@@ -1,12 +1,33 @@
 Instagram Challenge
 ===================
 
+```
+As a user
+So I can use instagram
+I would like to sign up to instagram
+```
+```
+As a user
+So I can contabute to instagram
+I would like to post a picture
+```
+```
+As a user
+So I can express my thoughts on Instagram
+I would like to comment on other peoples pictures
+```
+```
+As a user
+So I can let other users I like their pictures
+I would like to ‘like’ their posts
+```
+<!-- 
 ## Instructions
 
 * Feel free to use Google, your notes, books, etc., but work on your own
 * If you refer to the solution of another coach or student, please put a link to that in your README
 * If you have a partial solution, **still check in a partial solution**
-* You must submit a pull request to this repo with your code by 9am Monday morning
+* You must submit a pull request to this repo with your code by 9am Monday morning -->
 
 ## Task
 
@@ -16,13 +37,13 @@ Your challenge is to build Instagram using Rails. You'll need **users** who can 
 
 Bonus if you can add filters!
 
-## How to start
+<!-- ## How to start
 
 1. Produce some stories, break them down into tasks, and estimate
 2. Fork this repo, clone, etc
 3. Initialize a new rails project
 
-Remember to proceed in small steps! Getting confused? Make the steps even smaller.
+Remember to proceed in small steps! Getting confused? Make the steps even smaller. -->
 
 ## Code Quality
 
